@@ -1,0 +1,9 @@
+/DBServer/bin/Debug
+/DBServer/bin/Release
+/DBServer/obj
+/packages
+/SQLiteStudio-3.2.1
+/XL-DBServer/bin
+/XL-DBServer/obj
+/.vs
+/DBServer/bin/XL-DBServer/Release190628/LogText.txt
